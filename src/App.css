@@ -9,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +22,27 @@
 .App-link {
   color: #61dafb;
 }
+.graph-container{
+  text-align: center
+}
+
+.graph{
+  display:flex;
+  margin: auto;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigation li{
+  display:inline; 
+  padding: 8px;
+}
+.navigation ul {
+  background-color: #dddd;
+  padding: 8px;
+}
+
 
 @keyframes App-logo-spin {
   from {
