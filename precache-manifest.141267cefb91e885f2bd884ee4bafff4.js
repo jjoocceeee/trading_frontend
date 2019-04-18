@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/trading_frontend/static/css/main.76e330f0.chunk.css"
   },
   {
-    "revision": "4a250e3a8e802c2bb0ddfe75e4c12810",
+    "revision": "49ff4769e6376a9c8e8dde29ef9bb378",
     "url": "/trading_frontend/index.html"
   }
 ];
