@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/trading_frontend/static/js/runtime~main.7c065126.js"
   },
   {
-    "revision": "b041cde1d50594a62699",
-    "url": "/trading_frontend/static/js/main.b10ead26.chunk.js"
+    "revision": "80f74c2e36442d983cac",
+    "url": "/trading_frontend/static/js/main.fb3d5dc7.chunk.js"
   },
   {
     "revision": "89244172e59116f8cc43",
     "url": "/trading_frontend/static/js/2.b0d92913.chunk.js"
   },
   {
-    "revision": "b041cde1d50594a62699",
+    "revision": "80f74c2e36442d983cac",
     "url": "/trading_frontend/static/css/main.76e330f0.chunk.css"
   },
   {
-    "revision": "463b3872d55ba95486a56ad5fa906eef",
+    "revision": "c25700c5ebb390c495bc9b860458a858",
     "url": "/trading_frontend/index.html"
   }
 ];
